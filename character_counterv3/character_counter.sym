@@ -1,0 +1,24 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CHECK_ARRAY             3038
+//	CHECK_REPEAT            301E
+//	CONFIRM_ARRAY           301A
+//	CONTINUE                300A
+//	COUNT                   3031
+//	COUNTER                 3096
+//	COUNT_ARRAY             3089
+//	COUNT_ARRAY_TOP         308A
+//	DATA                    308D
+//	GETLINE                 3004
+//	MAX_ARRAY               308B
+//	MAX_STRING              308C
+//	NEW_ARRAY               3087
+//	NEW_ARRAY_HEAD          3088
+//	NEXT_ARRAY              3092
+//	NEXT_CHECK              3029
+//	NEXT_COUNT              303D
+//	OUTPUT                  3056
+//	PROMPT                  3061
+//	STRING_HEAD             3086
+//	STRING_PTR              3085
+//	USERPROMPT              3073

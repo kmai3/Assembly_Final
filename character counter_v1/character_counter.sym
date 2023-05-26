@@ -1,0 +1,8 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CONTINUE                3009
+//	DATA                    3023
+//	GETLINE                 3003
+//	STRING_HEAD             3022
+//	STRING_PTR              3021
+//	USERPROMPT              300F

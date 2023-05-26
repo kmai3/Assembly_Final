@@ -1,0 +1,16 @@
+Order of creation
+Cin function 
+- gathers users' input stops when user presses enter
+character_counter_v1
+> adjusting and modifying stacks/arrays in lc3
+> playing around until I was used to arrays, stacks, and pointers
+character_counterv2
+> attempt to code everything in one go
+> failure but uses prior information to fix for ver 3
+character_counterv3
+> fixed most issues, problem with ascii code 
+character_counterv3.5
+> reverts to before ascii code
+> uses 3.5 to learn how to fix for ver 4
+character_counterv4
+> fixed all bugs using failures from previous version.

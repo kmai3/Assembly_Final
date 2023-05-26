@@ -1,0 +1,18 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CONTINUE                300A
+//	COUNT                   300F
+//	COUNTER                 3067
+//	COUNT_ARRAY             305C
+//	COUNT_ARRAY_TOP         305D
+//	COUNT_LOOP              301A
+//	DATA                    3061
+//	ENTER                   305F
+//	GETLINE                 3004
+//	MAX_STRING              305E
+//	NEXT_COUNT              301E
+//	OUTPUT                  302E
+//	PROMPT                  303B
+//	STRING_HEAD             305B
+//	STRING_PTR              305A
+//	USERPROMPT              3048
